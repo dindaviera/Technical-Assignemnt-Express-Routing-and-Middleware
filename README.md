@@ -1,7 +1,21 @@
 ## 1.Get All
-
-!https://github.com/dindaviera/Technical-Assignemnt-Express-Routing-and-Middleware/blob/main/1.%20Get%20ALL.png
+ 
+ ![gambar1](https://github.com/dindaviera/Technical-Assignemnt-Express-Routing-and-Middleware/blob/main/getAll.png)
 
 ## 2. Get Hewan by Id
 
-!https://github.com/dindaviera/Technical-Assignemnt-Express-Routing-and-Middleware/blob/main/2.%20get%20hewan%20by%20id.png
+![gambar2](https://github.com/dindaviera/Technical-Assignemnt-Express-Routing-and-Middleware/blob/main/getHewanbyID.png)
+
+## 3. Put Hewan
+
+![gambar3](https://github.com/dindaviera/Technical-Assignemnt-Express-Routing-and-Middleware/blob/main/putHewan.png)
+
+## 4. Delete Hewan by Id
+
+![gambar5](https://github.com/dindaviera/Technical-Assignemnt-Express-Routing-and-Middleware/blob/main/deleteByID.png)
+
+## 5. Logger
+![gambar5](https://github.com/dindaviera/Technical-Assignemnt-Express-Routing-and-Middleware/blob/main/Logger.png)
+
+## 6. PostChecker 
+![gambar6](https://github.com/dindaviera/Technical-Assignemnt-Express-Routing-and-Middleware/blob/main/postChecker.png)
